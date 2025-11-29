@@ -29,7 +29,7 @@ Run the preprocessing script to clean and augment the images.
 
 Train the model using the training script.
 
-Use the prediction script to classify new skin images.
+Use the prediction to classify new skin images.
 
 **Disclaimer:**
 
