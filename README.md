@@ -33,4 +33,4 @@ Use the prediction script to classify new skin images.
 
 **Disclaimer:**
 
-This project is not a medical device and should not be used for diagnostic purposes.
+This project is for educational and research purposes.
