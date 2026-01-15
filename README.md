@@ -1,5 +1,5 @@
 This project uses a ResNet50 convolutional neural network to classify skin conditions from images. The workflow includes preprocessing, cleaning, and augmenting a large image dataset so the model can learn meaningful visual patterns. After training, the model predicts the most likely skin disease category for new input images.
-The goal of this project is to explore deep learning–based image recognition techniques in a medical context. This code is for research and educational purposes only and is not intended for clinical use or diagnosis.
+The goal of this project is to explore deep learning–based image recognition techniques in a medical context. This code is for research and educational purposes.
 
 **Features:**
 
